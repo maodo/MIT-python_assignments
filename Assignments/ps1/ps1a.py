@@ -1,7 +1,4 @@
 #******House hunting part A ************
-
-
-
 portion_down_payment = 0.25
 r = 0.04
 #Getting user input
